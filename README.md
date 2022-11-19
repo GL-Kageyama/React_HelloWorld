@@ -1,6 +1,6 @@
 # React HelloWorld
 ## Node.js
-Install Node.js to compile & run TypeScript.  
+Install Node.js to run React.  
 
 https://nodejs.org/en/  
  note : The stable, even version is recommended.  
